@@ -1,0 +1,9 @@
+body {
+    background-color: #000;
+    padding: 20px;
+}
+
+.clear_both {
+    clear: both;
+    line-height: 1px;
+}
